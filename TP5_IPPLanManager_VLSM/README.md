@@ -1,6 +1,6 @@
 TP5 - Moteur VLSM
 
-Etudiante: SIMO MEUTCHEHE Laura
+
 
 Objectif: Développer un moteur VLSM capable de proposer automatiquement un plan d'adressage à partir des besoins exprimés.
 

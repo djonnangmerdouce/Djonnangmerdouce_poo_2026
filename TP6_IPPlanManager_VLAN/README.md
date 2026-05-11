@@ -1,6 +1,5 @@
  TP6 - VLAN et segmentation logique
 
-Etudiante: SIMO MEUTCHEHE Laura
 
     Objectif
 Mettre en place la gestion des VLANs et associer automatiquement les sous-réseaux générés aux VLANs.

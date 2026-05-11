@@ -1,5 +1,5 @@
 TP 3: IPPlanManager Collection
-etudiant: SIMO MEUTCHEHE LAURA
+etudiant: DJONNANG
 
  Objectif
 Introduction des collections et des relations entre objets.
