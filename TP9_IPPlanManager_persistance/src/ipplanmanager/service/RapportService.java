@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class RapportService {
     public void genererRapportComplet(

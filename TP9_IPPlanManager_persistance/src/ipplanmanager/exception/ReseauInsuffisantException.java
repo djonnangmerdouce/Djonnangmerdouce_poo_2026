@@ -6,7 +6,7 @@ package ipplanmanager.exception;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class ReseauInsuffisantException extends Exception {
     public ReseauInsuffisantException(String message) {

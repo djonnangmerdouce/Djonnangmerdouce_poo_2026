@@ -1,7 +1,7 @@
 package ipplanmanager;
 /**
  *
- * @author WORLD TECH STORE
+ * @author djonnang
  */
 public class InterfaceReseau {    
     private String nom;    

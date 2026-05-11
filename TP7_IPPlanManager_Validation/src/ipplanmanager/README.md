@@ -1,6 +1,5 @@
  TP7 - Validations avancées et détection des conflits
-
-Etudiante: SIMO MEUTCHEHE Laura
+Etudiant djonnang
 
  Objectif: Ajouter des validations avancées pour détecter les incohérences dans un plan d'adressage.
 

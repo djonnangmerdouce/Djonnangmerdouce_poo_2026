@@ -6,7 +6,7 @@ package ipplanmanager;
 import java.util.ArrayList;
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class ValidateurPlanAdressage {
     public void verifierChevauchements(ArrayList<ResultatVLSM> resultats) throws ChevauchementReseauException {

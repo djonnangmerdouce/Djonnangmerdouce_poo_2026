@@ -2,7 +2,7 @@ package ipplanmanager;
 import java.util.ArrayList; 
 /**
  *
- * @author doly Nyangou
+ * @author djonnang
  */
 public class Equipement { 
  

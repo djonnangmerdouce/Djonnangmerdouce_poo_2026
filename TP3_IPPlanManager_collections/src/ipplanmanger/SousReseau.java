@@ -2,7 +2,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly nyangou
+ * @author djonnang
  */
 public class SousReseau {
     private String nom;     private ReseauIP reseau; 

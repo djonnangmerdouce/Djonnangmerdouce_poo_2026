@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author laura
+ * @author djonnang merdoucerdouce
  */
 public class Equipement {
         private String nom;

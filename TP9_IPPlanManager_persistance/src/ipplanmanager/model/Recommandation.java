@@ -6,7 +6,7 @@ package ipplanmanager.model;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class Recommandation {
     private String titre;

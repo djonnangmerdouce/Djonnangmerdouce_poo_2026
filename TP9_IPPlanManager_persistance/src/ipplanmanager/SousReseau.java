@@ -6,7 +6,7 @@ package ipplanmanager;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class SousReseau {
             private String nom;

@@ -6,7 +6,7 @@ package ipplanmanager;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class RecommandationMargeAdresse implements RegleRecommandation {
     @Override

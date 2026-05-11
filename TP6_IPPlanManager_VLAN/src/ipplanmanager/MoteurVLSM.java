@@ -6,7 +6,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class MoteurVLSM {
     public ArrayList<ResultatVLSM> genererPlan(String adresseDepart,

@@ -3,7 +3,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly Nyangou
+ * @author djonnang
  */
 public class ReseauIP {
     String adresseReseau;

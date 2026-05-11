@@ -8,7 +8,7 @@ import ipplanmanager.model.Recommandation;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public interface RegleRecommandation {
     Recommandation analyser(VLAN vlan);

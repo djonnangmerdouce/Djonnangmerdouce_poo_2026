@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class Main {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package ipplanmanager;
 
 /**
  *
- * @author WORLD TECH STORE
+ * @author djonnang
  */
 public class Main {
     public static void main(String[] args) { 

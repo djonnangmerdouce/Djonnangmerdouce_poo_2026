@@ -6,7 +6,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class BesoinReseau {
     private String nom;

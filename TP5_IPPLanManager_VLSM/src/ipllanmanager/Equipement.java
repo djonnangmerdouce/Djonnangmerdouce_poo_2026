@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class Equipement {
         private String nom;

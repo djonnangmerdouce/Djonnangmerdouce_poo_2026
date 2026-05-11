@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class BesoinRepository {
     public ArrayList<BesoinReseau> chargerBesoins(String cheminFichier) throws IOException {

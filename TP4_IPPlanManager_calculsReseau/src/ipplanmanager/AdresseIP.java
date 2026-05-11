@@ -2,7 +2,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly Nyangou
+ * @author djonnang
  */
 public class AdresseIP {    
     private String valeur;  

@@ -6,7 +6,7 @@ package ipplanmanager.exception;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class ChevauchementReseauException extends Exception {
     public ChevauchementReseauException(String message) {

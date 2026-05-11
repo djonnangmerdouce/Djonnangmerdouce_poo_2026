@@ -7,7 +7,7 @@ import ipplanmanager.exception.AdresseIPInvalideException;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class CalculateurReseau {
     public static int calculerNombreHotes(int cidr) {

@@ -3,7 +3,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class ResultatVLSM {
     private String nomBesoin;

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class GestionnaireVLAN {
     private ArrayList<VLAN> vlans;

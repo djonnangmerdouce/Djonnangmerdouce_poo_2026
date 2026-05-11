@@ -6,7 +6,7 @@ package ipplanmanager;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class CalculateurReseau {
     public static int calculerNombreHotes(int cidr) {

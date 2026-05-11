@@ -8,7 +8,7 @@ import ipplanmanager.model.VLAN;
 
 /**
  *
- * @author laura
+ * @author djonnang
  */
 public class RecommandationServeurs implements RegleRecommandation {
     @Override

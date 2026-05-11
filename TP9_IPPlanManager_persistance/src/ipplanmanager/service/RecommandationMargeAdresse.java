@@ -8,7 +8,7 @@ import ipplanmanager.model.VLAN;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class RecommandationMargeAdresse implements RegleRecommandation {
     @Override

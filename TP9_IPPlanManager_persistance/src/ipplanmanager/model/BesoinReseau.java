@@ -7,7 +7,7 @@ package ipplanmanager.model;
 
 /**
  *
- * @author laura
+ * @author djonnang merdouce
  */
 public class BesoinReseau {
     private String nom;

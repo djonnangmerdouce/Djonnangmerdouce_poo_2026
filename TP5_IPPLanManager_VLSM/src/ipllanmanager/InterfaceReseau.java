@@ -2,7 +2,7 @@ package ipplanmanager;
 
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class InterfaceReseau {
     private String nom;

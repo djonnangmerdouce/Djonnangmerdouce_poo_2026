@@ -1,7 +1,7 @@
 package ipplanmanager;
 /**
  *
- * @author doly
+ * @author djonnang
  */
 public class Main {
     public static void main(String[] args) {       
