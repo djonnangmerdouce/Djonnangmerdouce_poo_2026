@@ -1,5 +1,4 @@
 TP1 : IPPlan-Manager
-Étudiant : SIMO MEUTCHEHE LAURA WITNEY
 
 1. Objectif du TP
 L'objectif de ce travail pratique est de modéliser les composants de base d'un réseau informatique en utilisant la Programmation Orientée Objet (POO) en Java.
